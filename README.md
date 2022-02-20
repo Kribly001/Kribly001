@@ -16,7 +16,7 @@
   <img align="center" alt="Maxi-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Maxi-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Maxi-Apache" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://imgur.com/oMDofxr">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/oMDofxr.png">
 </div>
   <br>
   <h3>-📲Contact:<h3>
