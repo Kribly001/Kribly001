@@ -1,5 +1,6 @@
 ## Holaaa!! Soy Maxiii 😁😁
 -🌱 Programador Full-Stack 
+-🌱 Desarrollador web
 
 <div align="center">
   <a href="www.linkedin.com/in/maximilianocenteno">
