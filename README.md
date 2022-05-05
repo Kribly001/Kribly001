@@ -1,6 +1,7 @@
 ## Holaaa!! Soy Maxiii 😁😁
--🌱 Programador Full-Stack 
--🌱 Desarrollador web
+-🌱 Programador Full-Stack Java en https://eggeducacion.com
+--------------------------------------------
+-🌱 Desarrollador web con React en https://www.coderhouse.com/
 
 <div align="center">
   <a href="www.linkedin.com/in/maximilianocenteno">
