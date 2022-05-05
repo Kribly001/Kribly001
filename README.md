@@ -3,7 +3,6 @@
 
 -🌱 Desarrollador web con React en https://www.coderhouse.com/
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div align="center">
   <a href="www.linkedin.com/in/maximilianocenteno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kribly001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -29,5 +28,4 @@
   <h3>-📲Contact:<h3>
   <div> 
   <a href="https://www.linkedin.com/in/maximilianocenteno" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-    <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="maximilianocenteno" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/maximilianocenteno?trk=profile-badge">Maximiliano Centeno</a></div>            
 </div>
