@@ -1,6 +1,6 @@
 ## Holaaa!! Soy Maxiii 😁😁
 -🌱 Programador Full-Stack Java en https://eggeducacion.com
---------------------------------------------
+
 -🌱 Desarrollador web con React en https://www.coderhouse.com/
 
 <div align="center">
