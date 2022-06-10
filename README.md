@@ -5,9 +5,9 @@
 
 <div align="center">
   <a href="www.linkedin.com/in/maximilianocenteno">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=kribly001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="160" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kribly001&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kribly001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <br>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kribly001&layout=compact&langs_count=7&theme=dracula"/></div>
   <h2>-💻Skills:</h2>
   <div style="display: inline_block"><br>
   <img align="center" alt="Maxi-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
