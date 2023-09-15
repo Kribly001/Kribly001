@@ -21,6 +21,12 @@
   <img align="center" alt="Maxi-JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Maxi-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Maxi-Apache" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg">
+  <img align="center" alt="Maxi-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Maxi-Aws" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png">
+  
+
+
+  
     
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/oMDofxr.png">
 </div>
